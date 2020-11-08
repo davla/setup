@@ -1,4 +1,7 @@
 # setup
+:skull::skull::skull: ***This repository is archived :sob: It's been merged
+into https://github.com/davla/dotfiles *** :skull::skull::skull:
+
 System initial setup
 
 ## Roadmap
